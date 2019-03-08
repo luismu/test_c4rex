@@ -9,9 +9,9 @@ Clone the repo
 # Routes:
  Open localhost:3000
 
- /guests --> How many guests each DJ invited.
- /top --> A leader board of the most liked DJ in the world. 
- /location --> How many people are being picked up from each location.
+ 1) /guests --> How many guests each DJ invited.
+ 2) /top --> A leader board of the most liked DJ in the world. 
+ 3) /location --> How many people are being picked up from each location.
 
 # Task 1
 
